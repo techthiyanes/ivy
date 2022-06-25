@@ -9,13 +9,23 @@ Manipulation
 
 
 .. toctree::
+   :hidden:
    :maxdepth: -1
    :caption: Manipulation
 
-   manipulation/flip.rst
+   manipulation/concat.rst
    manipulation/expand_dims.rst
+   manipulation/flip.rst
    manipulation/permute_dims.rst
-   manipulation/split.rst
+   manipulation/reshape.rst
+   manipulation/roll.rst
+   manipulation/squeeze.rst
+   manipulation/stack.rst
+   manipulation/clip.rst
+   manipulation/constant_pad.rst
    manipulation/repeat.rst
+   manipulation/split.rst
+   manipulation/swapaxes.rst
    manipulation/tile.rst
+   manipulation/zero_pad.rst
 
